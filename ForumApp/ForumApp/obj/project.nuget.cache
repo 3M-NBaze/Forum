@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "789RtUP5egiOQe0PBvhmBsB4AHKit463lYyZB9omgU7G+tYfojzbxdVo1s6OjepCBVnG5OXmj9K2Xs8+TB1mTw==",
+  "dgSpecHash": "KrCjCJEKWvjwDoor+6um1UaEQjcDqif7x8QW3TYgJeNUiUMZ7D7sRejBJldNsay7wd/IQ6SA/jpuQMMvnc9T5Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Najdanovic\\Desktop\\Baze\\ForumApp\\ForumApp\\ForumApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\elfak\\baze\\projekat\\Forum\\ForumApp\\ForumApp\\ForumApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Filip\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
