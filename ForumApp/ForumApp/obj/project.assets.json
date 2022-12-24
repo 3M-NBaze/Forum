@@ -8,23 +8,39 @@
     "net5.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Jovan\\.nuget\\packages\\": {},
+=======
+    "C:\\Users\\Filip\\.nuget\\packages\\": {},
+>>>>>>> 28da80fa17c59c84a3cba2d8eb414bb8e78ffa02
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\Faks\\NapredneBaze\\Forum\\ForumApp\\ForumApp\\ForumApp.csproj",
       "projectName": "ForumApp",
       "projectPath": "D:\\Faks\\NapredneBaze\\Forum\\ForumApp\\ForumApp\\ForumApp.csproj",
       "packagesPath": "C:\\Users\\Jovan\\.nuget\\packages\\",
       "outputPath": "D:\\Faks\\NapredneBaze\\Forum\\ForumApp\\ForumApp\\obj\\",
+=======
+      "projectUniqueName": "C:\\elfak\\baze\\projekat\\Forum\\ForumApp\\ForumApp\\ForumApp.csproj",
+      "projectName": "ForumApp",
+      "projectPath": "C:\\elfak\\baze\\projekat\\Forum\\ForumApp\\ForumApp\\ForumApp.csproj",
+      "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
+      "outputPath": "C:\\elfak\\baze\\projekat\\Forum\\ForumApp\\ForumApp\\obj\\",
+>>>>>>> 28da80fa17c59c84a3cba2d8eb414bb8e78ffa02
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
+<<<<<<< HEAD
         "C:\\Users\\Jovan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+        "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 28da80fa17c59c84a3cba2d8eb414bb8e78ffa02
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -60,6 +76,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -68,7 +102,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.413\\RuntimeIdentifierGraph.json"
+>>>>>>> 28da80fa17c59c84a3cba2d8eb414bb8e78ffa02
       }
     }
   }
