@@ -11,6 +11,6 @@ namespace ForumApp.Models
 
         public Commnet CommnetLike { get; set; }
 
-        //public User CommentUser { get; set; }
+        public User CommentUser { get; set; }
     }
 }

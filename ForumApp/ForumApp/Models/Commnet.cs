@@ -13,8 +13,8 @@ namespace ForumApp.Models
         public List<LikeComment> LikeComments { get; set; }
         public List<DislikeComment> DislikeComments { get; set; }
 
-        //public User CommentUser { get; set; }
+        public User CommentUser { get; set; }
 
-        //public Post CommentPost { get; set; }
+        public Post CommentPost { get; set; }
     }
 }

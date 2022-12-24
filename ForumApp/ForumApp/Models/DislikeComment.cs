@@ -10,6 +10,6 @@ namespace ForumApp.Models
         public int ID { get; set; }
         public Commnet CommnetDislike { get; set; }
 
-        //public User CommentUser { get; set; }
+        public User CommentUser { get; set; }
     }
 }

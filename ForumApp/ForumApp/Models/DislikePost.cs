@@ -9,8 +9,8 @@ namespace ForumApp.Models
     {
         public int ID { get; set; }
 
-        //public User DislikePostUser { get; set; }
+        public User DislikePostUser { get; set; }
 
-        //public Post DislikePostPost { get; set; }
+        public Post DislikePostPost { get; set; }
     }
 }
